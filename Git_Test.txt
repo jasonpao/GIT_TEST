@@ -1,1 +1,2 @@
 GIT_test1
+GIT_test2
